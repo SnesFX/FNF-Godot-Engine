@@ -585,7 +585,7 @@ _global_script_class_icons={
 [application]
 
 config/name="FNF-Godot-Edition"
-run/main_scene="res://Scenes/Menus/FirstUse.tscn"
+run/main_scene="res://Scenes/Menus/Intro.tscn"
 boot_splash/bg_color=Color( 0, 0, 0, 1 )
 config/icon="res://Misc/iconOG.png"
 config/windows_native_icon="res://Misc/icon.ico"
@@ -603,7 +603,7 @@ SceneLoader="*res://AutoLoads/SceneLoader.tscn"
 SoundController="*res://AutoLoads/SoundController.tscn"
 Mapper="*res://AutoLoads/Mapper.gd"
 ToolKit="*res://Scenes/DEBUG/ToolKit.tscn"
-WFC="*res://AutoLoads/WFC.tscn"
+WFC="res://AutoLoads/WFC.tscn"
 Resources="*res://AutoLoads/Resources.gd"
 Settings="*res://AutoLoads/Settings.gd"
 
