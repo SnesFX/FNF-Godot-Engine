@@ -584,8 +584,9 @@ _global_script_class_icons={
 
 [application]
 
-config/name="FNF-Godot-Edition"
-run/main_scene="res://Scenes/Menus/Intro.tscn"
+config/name="Funkin Vita"
+run/main_scene="res://Scenes/Menus/FirstUse.tscn"
+boot_splash/image="res://Erm Splash Screen/haha splash.png"
 boot_splash/bg_color=Color( 0, 0, 0, 1 )
 config/icon="res://Misc/iconOG.png"
 config/windows_native_icon="res://Misc/icon.ico"
@@ -689,4 +690,6 @@ common/enable_pause_aware_picking=true
 
 [rendering]
 
+quality/driver/fallback_to_gles2=true
+vram_compression/import_etc=true
 environment/default_environment="res://Assets/3D Models/3D.tres"

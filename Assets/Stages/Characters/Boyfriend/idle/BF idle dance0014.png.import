@@ -4,15 +4,16 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/BF idle dance0014.png-1f86297e37552f4a78528072d1f6e765.s3tc.stex"
 path.etc2="res://.import/BF idle dance0014.png-1f86297e37552f4a78528072d1f6e765.etc2.stex"
+path.etc="res://.import/BF idle dance0014.png-1f86297e37552f4a78528072d1f6e765.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2" ],
+"imported_formats": [ "s3tc", "etc2", "etc" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Assets/Stages/Characters/Boyfriend/idle/BF idle dance0014.png"
-dest_files=[ "res://.import/BF idle dance0014.png-1f86297e37552f4a78528072d1f6e765.s3tc.stex", "res://.import/BF idle dance0014.png-1f86297e37552f4a78528072d1f6e765.etc2.stex" ]
+dest_files=[ "res://.import/BF idle dance0014.png-1f86297e37552f4a78528072d1f6e765.s3tc.stex", "res://.import/BF idle dance0014.png-1f86297e37552f4a78528072d1f6e765.etc2.stex", "res://.import/BF idle dance0014.png-1f86297e37552f4a78528072d1f6e765.etc.stex" ]
 
 [params]
 

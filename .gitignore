@@ -7,3 +7,5 @@ export.cfg
 # Mono-specific ignores
 .mono/
 data_*/
+FNF-Godot-Edition.vpk
+*.exe
