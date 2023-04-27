@@ -1,5 +1,8 @@
-# Something is coming ????
-Prepare...
+# Erm FNF Godot Vita
+
+* Erm vita port by TyDev???
+
+* Gotta optimize like 99.9% of the stuff and I don't plan on working on this regularly so don't expect this repo to be updated alot!!!
 
 # FNF-Godot-Engine
 Hello, Welcome to my repo of my Friday Night Funkin' Remake in the Godot Engine.
